@@ -1,0 +1,84 @@
+{
+  "beers": [
+    {
+      "id": 1,
+      "name": "Dreher Classic",
+      "type": "Lager",
+      "alcohol": 4.7,
+      "image": "https://static.groby.hu/media/94f/6d7/conv/2168_se1_d75d0_back-full.png",
+      "description": "Könnyed, magyar lager.",
+      "brewery": "Dreher Sörgyár",
+      "rating": 4.5
+    },
+    {
+      "id": 2,
+      "name": "Soproni Lager",
+      "type": "Pilsner",
+      "alcohol": 4.5,
+      "image": "https://static.groby.hu/media/425/df7/conv/soproni-lager_103768-full.png"
+    },
+    {
+      "id": 3,
+      "name": "Borsodi Világos",
+      "type": "Lager",
+      "alcohol": 4.6,
+      "image": "https://static.groby.hu/media/fa6/bf4/conv/borsodi_vilagos_dobozos_0%2C5l_105057-full.png"
+    },
+    {
+      "id": 4,
+      "name": "Tuborg 0,5L",
+      "type": "Lager",
+      "alcohol": 4.6,
+      "image": "https://static.groby.hu/media/dfd/700/conv/tuborg_0%2C5l_dobozos_105871-full.png"
+    },
+    {
+      "id": 5,
+      "name": "Steffl Világos",
+      "type": "Lager",
+      "alcohol": 4.7,
+      "image": "https://static.groby.hu/media/3de/19b/conv/steffl-vilagos-sor-0%2C5l_dobozos_103774-full.jpg"
+    },
+    {
+      "id": 6,
+      "name": "Löwenbräu Lager",
+      "type": "Lager",
+      "alcohol": 5.0,
+      "image": "https://static.groby.hu/media/485/e5a/conv/lowenbrau_lager_0%2C5l_dobozos_105070-full.png"
+    },
+    {
+      "id": 7,
+      "name": "Coors Világos",
+      "type": "Lager",
+      "alcohol": 5.0,
+      "image": "https://static.groby.hu/media/c8d/ba4/conv/coors_vilagos_sor_103516-full.png"
+    },
+    {
+      "id": 8,
+      "name": "Staropramen Dark",
+      "type": "Dark Lager",
+      "alcohol": 4.8,
+      "image": "https://static.groby.hu/media/707/7dc/conv/Staropramen-Dark-barna-s%C3%B6r-0%2C5l-dobozos-full.png"
+    },
+    {
+      "id": 9,
+      "name": "Zipfer Original",
+      "type": "Lager",
+      "alcohol": 4.9,
+      "image": "https://static.groby.hu/media/489/d1c/conv/zipfer_original_0%2C5l_105289-full.png"
+    },
+    {
+      "id": 10,
+      "name": "Staropramen Világos",
+      "type": "Lager",
+      "alcohol": 5.0,
+      "image": "https://static.groby.hu/media/eef/aa4/conv/Staropramen-vilagos-sor-0%2C5l-dobozos_105080-full.jpg"
+    },
+    {
+      "id": 11,
+      "name": "Heineken Világos",
+      "type": "Lager",
+      "alcohol": 5.0,
+      "image": "https://static.groby.hu/media/d80/5b6/conv/heineken-minosegi-vilagos-sor-0%2C5l-dobozos_103747-full.png"
+    }
+  ]
+}
